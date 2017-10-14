@@ -5,10 +5,10 @@ $password = $_POST['password'];
 
 //DB Credential
 
-$user = 'root';
-$pass = 'root';
-$db = 'myappv2';
-$host ='localhost';
+$user = '';
+$pass = '';
+$db = '';
+$host ='';
 
 //connect to mysql
 
